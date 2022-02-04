@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Smartprem
 - 👀 I’m interested in Data Analysis, Data Science and Artificial Intelligence
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning R
 - 💞️ I’m looking to collaborate on real world data analysis projects
 - 📫 You can reach out to me on oludarestephen00@gmail.com
 
